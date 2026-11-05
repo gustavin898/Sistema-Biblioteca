@@ -54,3 +54,7 @@ Projeto desenvolvido para a aula prática
 de Projeto de Software, com foco em
 Gerenciamento de Configuração e Controle
 de Versão utilizando Git e GitHub.
+
+## Histórico de desenvolvimento
+
+Projeto versionado utilizando Git e GitHub.
